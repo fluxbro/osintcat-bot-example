@@ -6,13 +6,13 @@ Osintcat.ru python bot example for premium users
 
 ## 🚀 Quick Setup
 
-1. **Install dependencies**
+1. **Install**
    ```bash
-   pip install discord.py osintcat
+   pip install py-cord osintcat
    ```
 
 2. **Configure the bot**
-   Edit `bot.py` and replace:
+   Edit `main.py` and replace:
    ```python
    tkn = "bot tkn"
    catid = "CatID / LoginID"
